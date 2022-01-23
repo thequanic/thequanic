@@ -21,9 +21,9 @@ The crossover between design and programming has always been of interest to me, 
 
 Languages and Tools: 
 
-<img alt="C" src="https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=C&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
+<img alt="C" src="https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=C&logoColor=white"/><img alt="CPP" src="https://img.shields.io/badge/++-%231572B6.svg?style=flat-square&logo=C&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+
+
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> 
 
