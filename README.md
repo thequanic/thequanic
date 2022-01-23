@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DEVANSH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devansh-goel-696b2a216/)](https://www.linkedin.com/in/devansh-goel-696b2a216/)
-[![Website Badge](https://img.shields.io/badge/WebSite-DEVANSH-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-DEVANSH-green)]()
 
 
 I'm
