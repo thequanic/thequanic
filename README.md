@@ -1,5 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/thequanic/count.svg)
 ### @thequanic
-# Devansh Goel &nbsp;&nbsp;&nbsp;&nbsp; ![Visitor Count](https://profile-counter.glitch.me/thequanic/count.svg)
+# Devansh Goel  
 ### Email: [devansh052003.career@gmail.com](mailto:devansh052003.career@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn: [https://www.linkedin.com/in/devansh052003/](https://www.linkedin.com/in/devansh052003/) 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devansh052003.career@gmail.com)](mailto:devansh052003.career@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-DEVANSH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devansh-goel-696b2a216/)](https://www.linkedin.com/in/devansh-goel-696b2a216/) 
