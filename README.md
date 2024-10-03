@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/thequanic/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/thequanic/count.svg) 
+<br> visitors till now...
 ### @thequanic
 # Devansh Goel  
 ### Email: [devansh052003.career@gmail.com](mailto:devansh052003.career@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LinkedIn: [https://www.linkedin.com/in/devansh052003/](https://www.linkedin.com/in/devansh052003/) 
