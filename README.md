@@ -38,7 +38,7 @@ interaction in a healthcare project.
   + Led a geographically dispersed team of six, with exemplary leadership, managing workflows using SDLC, and 
 delivering successful outcomes.
 ## Projects
-### + **ViniScope: Vineyard Monitoring System** 
+### + [**ViniScope: Vineyard Monitoring System**](https://github.com/thequanic/Grape_instance_segementation_and_masking) 
 *Technology used: Deep Learning in Python | Dec 2023-Jan 2024* 
 + To revolutionize Viticulture, developed an instance segmentation application using Mask R-CNN and YOLO v8 to perform 
 real-time object detection and masking of grape bunches in the vineyard with 93% mean average precision.
