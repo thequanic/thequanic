@@ -42,7 +42,7 @@ delivering successful outcomes.
 *Technology used: Deep Learning in Python | Dec 2023-Jan 2024* 
 + To revolutionize Viticulture, developed an instance segmentation application using Mask R-CNN and YOLO v8 to perform 
 real-time object detection and masking of grape bunches in the vineyard with 93% mean average precision.
-### + **Kyphosis Disease Predictor** 
+### + [**Kyphosis Disease Predictor**](https://github.com/thequanic/Kyphosis_Disease_predictor) 
 *Technology used: Machine Learning in Python | Nov 2022-Feb 2023*
 + To detect and predict the possibility of kyphosis in children after spinal surgery, built a machine-learning model with 76% 
 accuracy using decision trees. 
