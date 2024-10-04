@@ -46,7 +46,7 @@ real-time object detection and masking of grape bunches in the vineyard with 93%
 *Technology used: Machine Learning in Python | Nov 2022-Feb 2023*
 + To detect and predict the possibility of kyphosis in children after spinal surgery, built a machine-learning model with 76% 
 accuracy using decision trees. 
-### + **Lawyer Appointment Portal**
+### + [**Lawyer Appointment Portal**](https://github.com/thequanic/Lawyer_appointment_app)
 *Technology used: MERN stack | Nov 2022-Jan 2023*
 + With an interactive React frontend, robust backend API, efficient database management, and a secure authorization and 
 authentication system developed a full-stack appointment booking website for improving virtual connections between 
