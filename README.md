@@ -51,7 +51,7 @@ accuracy using decision trees.
 + With an interactive React frontend, robust backend API, efficient database management, and a secure authorization and 
 authentication system developed a full-stack appointment booking website for improving virtual connections between 
 lawyers and their clients.
-### + **Online Personal Diary**
+### + [**Online Personal Diary**](https://github.com/thequanic/Online-Personal-Diary-using-MERN_Stack)
 *Technology used: MERN stack | Mar 2022-Jul 2022*
 + Built full stack portal implementing strong authorization and authentication system, responsive React front end, and 
 express RESTFUL APIs. The portal focuses on the secure and safe storage of personal data using auth-tokens and password
